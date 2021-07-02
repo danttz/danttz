@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on Alaska Web Sites
 - 📫 How to reach me (11)95663-4751
 
-<!---
-danttz/danttz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="danttzwebdeveloper"><a class="LI-simple-link" href='https://br.linkedin.com/in/danttzwebdeveloper?trk=profile-badge'>Danilo Gozzi Algaranaz dos Santos</a></div>
